@@ -17,6 +17,6 @@ LINK: https://dacon.io/competitions/official/236011/overview/description
 
 [결과]
 
-     점수: 0.78786 (F1 score (macro))      리더보드 순위: 64/446
+     점수: 0.78786 (F1 score (macro))      리더보드 순위: 64/446 (상위 14.35 %)
     
     
